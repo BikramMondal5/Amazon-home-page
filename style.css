@@ -19,14 +19,7 @@
     margin:0;
     position: relative;
     left: -40px;
-    /* background-image: url("images.png");
-    background-size: cover;  */
-   
     overflow: hidden;
-    /* background-position: center; */
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 .nav-logo img{
     height: 100%;
@@ -296,8 +289,7 @@ ul a{
     background-color: #0f1111;
     color: white;
     height: 70px;
-    /* display: flex;
-    justify-content: center;  */
+   
 }
 .pages{
     font-size: 0.7rem;

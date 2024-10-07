@@ -7,7 +7,7 @@ This project is a clone of the Amazon homepage, built using HTML and CSS, and it
 - **Responsive Navigation Bar**: A fully responsive navigation bar with Amazon logo, search bar, and cart icon.
 - **Product Section**: Several product sections displaying different categories and deals.
 - **Interactive Icons**: Integrated FontAwesome icons for cart, location, and user actions.
-- **Search Functionality**: A search bar with a dropdown to select different categories.
+- **CSS Search Bar**: A search bar with a dropdown to select different categories.
 
 ## Technologies Used
 
